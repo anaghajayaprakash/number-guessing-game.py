@@ -68,5 +68,5 @@ Congragulations!You guessed the number in 3 attempts
 ## How to run
 
 1. Make sure you installed python program.
-2. Open a terminal in thiis folder.
+2. Open a terminal in this folder.
 3. Run the command.
